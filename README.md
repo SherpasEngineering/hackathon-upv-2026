@@ -72,6 +72,39 @@ The family shares their goals and financial information. Sherpas produces an onl
 
 Even a clear plan is a lot to take in alone. Partners may want different levels of detail or different ways of learning. After the meeting, families often need time and follow-up before acting. Your experience can help before, during or after that conversation.
 
+### Where families get stuck today
+
+Problems we see when families receive their plan. They are starting points, not solutions: pick one, combine several, or bring your own.
+
+**Understanding**
+
+1. They cannot see how a choice today changes their life years from now: Michael Carter does not know if buying a home in 2027 still lets him retire at 58.
+2. Big numbers and percentages do not tell them whether things are good or bad: "$2.37 million left at the end of the plan, in today's dollars" means little to Timothy and Melanie Weah.
+3. A good score can hide a serious problem: Samantha Lewis scores 82, "strong", yet her savings are projected to run out at 73.
+4. The plan answers what it can calculate, not the worry that keeps them up at night, which nobody has asked them about.
+
+**Attention**
+
+5. They will not sit down and read a long plan: the Weahs, with two jobs and children aged 6 and 3, get to it in short bursts, often on a phone.
+
+**Emotion**
+
+6. Hard news makes people look away instead of act: Michael Carter's plan opens with a score of 26, in the "critical" band.
+7. Topics like death and old age get pushed aside: Daniel Johnson holds $250,000 of life cover against a recommended $1.6 million or more, with two children at home.
+
+**Couples**
+
+8. One plan, two people: Timothy is comfortable with more risk than Melanie, and nothing happens until both agree.
+
+**Timing and follow-up**
+
+9. Questions come when nobody is there to answer, and a week after the meeting most of it is forgotten.
+10. The plan arrives on its own date, not at the moments when the family would act: Samantha has college bills each August and a home purchase in 2030.
+
+**Action**
+
+11. Too many good options and no first step: the Weahs have spare cash, an 18% card, missing life cover and nothing saved for college, and the plan leaves the order to them. Even once they choose, they do not know how to do it, and nothing reminds them or shows them it worked.
+
 ## The cases
 
 Four synthetic households, true to life, built for this hackathon. Each one has a complete Sherpas plan, from a financial health score of 26 to 82 out of 100.
