@@ -46,7 +46,7 @@ For every new client, an advisor does three jobs:
 | | Job | Today |
 |---|---|---|
 | 1 | **Collect the data**: who the family is, what they earn, own and owe, and what they want | Solved by Sherpas: our **Intake** agent reads any document and fills in the client |
-| 2 | **Do the math**: turn that data into a plan, with clear recommendations | Solved by Sherpas: **Paraplanner** and **Portfolio analyst** do the analysis. 8 hours of work becomes 20 minutes per client |
+| 2 | **Do the math**: turn that data into a plan, with clear recommendations | Solved by Sherpas: **Paraplanner** and **Portfolio analyst** do the analysis. 8 hours of work becomes 10 minutes per client, so advisors can reach more families |
 | 3 | **Explain the plan**: walk the family through it and answer their doubts | **Still done by hand, one meeting at a time.** This is your challenge |
 
 ## The challenge
